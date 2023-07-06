@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 cap nhat ben nhanh main
+=======
+them dong moi tu ben nhanh dev
+>>>>>>> dev
 DEVACS 23A02
 thêm lệnh cho file devnet
 them 1 dong nua tren Git
