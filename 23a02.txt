@@ -1,2 +1,3 @@
 DEVACS 23A02
-x
+thêm lệnh cho file devnet
+
