@@ -1,3 +1,4 @@
 DEVACS 23A02
 thêm lệnh cho file devnet
 them 1 dong nua tren Git
+them cdong ben duoi de merge voi tren kia
